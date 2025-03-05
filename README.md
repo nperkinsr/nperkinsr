@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Frontend development
 - 💞️ I’m looking to collaborate on ... projects that require asset creation
 - 📫 How to reach me ... through here! 
-- ⚡ Fun fact: ... Every time I want to use the oven, I open it first before I turn it on to check if my turtle is inside. I do not own a turtle.
+- ⚡ Fun fact: ... Every time I want to use the oven, I open it first before I turn it on to check if my pet turtle is inside. I do not own a turtle.
 
 <!---
 nperkinsr/nperkinsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
